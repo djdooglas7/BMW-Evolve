@@ -1,0 +1,539 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes
+END
+MD5Hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MD5Hash.h
+END
+TripResultsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/TripResultsViewController.xib
+END
+StartTripViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/StartTripViewController.h
+END
+HelpViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2117/BMWEVIPHONE/trunk/Classes/HelpViewController.m
+END
+MD5Hash.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MD5Hash.m
+END
+MapHistoryViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1915/BMWEVIPHONE/trunk/Classes/MapHistoryViewController.h
+END
+UpdatesViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2244/BMWEVIPHONE/trunk/Classes/UpdatesViewController.xib
+END
+TripResultsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/TripResultsViewController.h
+END
+StartTripViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/StartTripViewController.m
+END
+MapHistoryViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/MapHistoryViewController.m
+END
+TripResultsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/TripResultsViewController.m
+END
+ParkPlaceMark.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/ParkPlaceMark.h
+END
+TipsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/TipsViewController.h
+END
+ParkPlaceMark.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1982/BMWEVIPHONE/trunk/Classes/ParkPlaceMark.m
+END
+TipsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/TipsViewController.m
+END
+SettingsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/SettingsViewController.xib
+END
+TripHistoryViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2020/BMWEVIPHONE/trunk/Classes/TripHistoryViewController.xib
+END
+SettingsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2166/BMWEVIPHONE/trunk/Classes/SettingsViewController.h
+END
+TripHistoryViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1892/BMWEVIPHONE/trunk/Classes/TripHistoryViewController.h
+END
+ResultsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/ResultsViewController.h
+END
+ParkedViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2244/BMWEVIPHONE/trunk/Classes/ParkedViewController.xib
+END
+DailyTableViewCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/DailyTableViewCell.xib
+END
+SettingsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2281/BMWEVIPHONE/trunk/Classes/SettingsViewController.m
+END
+SavingsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2117/BMWEVIPHONE/trunk/Classes/SavingsViewController.xib
+END
+TripHistoryViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/TripHistoryViewController.m
+END
+ResultsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/ResultsViewController.m
+END
+ParkedViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/ParkedViewController.h
+END
+DailyTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/DailyTableViewCell.h
+END
+TipDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2020/BMWEVIPHONE/trunk/Classes/TipDetailViewController.xib
+END
+SavingsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/SavingsViewController.h
+END
+FinishTripViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2259/BMWEVIPHONE/trunk/Classes/FinishTripViewController.xib
+END
+DailyTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/DailyTableViewCell.m
+END
+ParkedViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2281/BMWEVIPHONE/trunk/Classes/ParkedViewController.m
+END
+FBLoginButton.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/FBLoginButton.h
+END
+SavingsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/SavingsViewController.m
+END
+CrumbPathView.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/CrumbPathView.h
+END
+FBLoginButton.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/FBLoginButton.m
+END
+CrumbPath.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2146/BMWEVIPHONE/trunk/Classes/CrumbPath.h
+END
+CrumbPathView.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/CrumbPathView.m
+END
+DiveViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/DiveViewController.h
+END
+DealerAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2020/BMWEVIPHONE/trunk/Classes/DealerAnnotation.h
+END
+MapHistoryViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2042/BMWEVIPHONE/trunk/Classes/MapHistoryViewController.xib
+END
+SetupViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2244/BMWEVIPHONE/trunk/Classes/SetupViewController.xib
+END
+CrumbPath.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2281/BMWEVIPHONE/trunk/Classes/CrumbPath.m
+END
+DiveViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1892/BMWEVIPHONE/trunk/Classes/DiveViewController.m
+END
+DealerAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2020/BMWEVIPHONE/trunk/Classes/DealerAnnotation.m
+END
+TripHistoryTableViewCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/TripHistoryTableViewCell.xib
+END
+SetupViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2244/BMWEVIPHONE/trunk/Classes/SetupViewController.h
+END
+TripHistoryTableViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2244/BMWEVIPHONE/trunk/Classes/TripHistoryTableViewCell.h
+END
+UpdatesViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/UpdatesViewController.h
+END
+SetupViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2244/BMWEVIPHONE/trunk/Classes/SetupViewController.m
+END
+GDataXMLNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1915/BMWEVIPHONE/trunk/Classes/GDataXMLNode.h
+END
+TripHistoryTableViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2244/BMWEVIPHONE/trunk/Classes/TripHistoryTableViewCell.m
+END
+UpdatesViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2259/BMWEVIPHONE/trunk/Classes/UpdatesViewController.m
+END
+TipsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2020/BMWEVIPHONE/trunk/Classes/TipsViewController.xib
+END
+BMWE3AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/BMWE3AppDelegate.h
+END
+UIAlertView+Helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/UIAlertView+Helper.h
+END
+BMWE3ViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/BMWE3ViewController.h
+END
+GDataXMLNode.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1915/BMWEVIPHONE/trunk/Classes/GDataXMLNode.m
+END
+BMWE3AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/BMWE3AppDelegate.m
+END
+RatingViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2244/BMWEVIPHONE/trunk/Classes/RatingViewController.xib
+END
+UIAlertView+Helper.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/UIAlertView+Helper.m
+END
+BMWE3ViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/BMWE3ViewController.m
+END
+BarGraphView.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/BarGraphView.h
+END
+RatingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2117/BMWEVIPHONE/trunk/Classes/RatingViewController.h
+END
+ChargeAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1982/BMWEVIPHONE/trunk/Classes/ChargeAnnotation.h
+END
+BarGraphView.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/BarGraphView.m
+END
+RatingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2259/BMWEVIPHONE/trunk/Classes/RatingViewController.m
+END
+ChargeAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1982/BMWEVIPHONE/trunk/Classes/ChargeAnnotation.m
+END
+ResultsViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2020/BMWEVIPHONE/trunk/Classes/ResultsViewController.xib
+END
+EnvironmentViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2146/BMWEVIPHONE/trunk/Classes/EnvironmentViewController.xib
+END
+EnvironmentViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2078/BMWEVIPHONE/trunk/Classes/EnvironmentViewController.h
+END
+DataManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/DataManager.h
+END
+XAuthTwitterViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2020/BMWEVIPHONE/trunk/Classes/XAuthTwitterViewController.xib
+END
+EnvironmentViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2122/BMWEVIPHONE/trunk/Classes/EnvironmentViewController.m
+END
+DataManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/DataManager.m
+END
+XAuthTwitterViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/XAuthTwitterViewController.h
+END
+DailyHistoryViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/DailyHistoryViewController.xib
+END
+FinishTripViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/FinishTripViewController.h
+END
+TipDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/TipDetailViewController.h
+END
+XAuthTwitterViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2259/BMWEVIPHONE/trunk/Classes/XAuthTwitterViewController.m
+END
+DiveViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2020/BMWEVIPHONE/trunk/Classes/DiveViewController.xib
+END
+HelpViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2244/BMWEVIPHONE/trunk/Classes/HelpViewController.xib
+END
+DailyHistoryViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/DailyHistoryViewController.h
+END
+FinishTripViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/FinishTripViewController.m
+END
+TipDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/TipDetailViewController.m
+END
+StartTripViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2117/BMWEVIPHONE/trunk/Classes/StartTripViewController.xib
+END
+HelpViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/HelpViewController.h
+END
+DailyHistoryViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2280/BMWEVIPHONE/trunk/Classes/DailyHistoryViewController.m
+END

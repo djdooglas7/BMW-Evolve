@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON
+END
+JSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON/JSON.h
+END
+SBJsonBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON/SBJsonBase.h
+END
+SBJsonParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON/SBJsonParser.h
+END
+SBJsonWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON/SBJsonWriter.h
+END
+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON/SBJSON.h
+END
+SBJsonBase.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON/SBJsonBase.m
+END
+SBJsonParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON/SBJsonParser.m
+END
+SBJsonWriter.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON/SBJsonWriter.m
+END
+NSObject+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON/NSObject+SBJSON.h
+END
+NSString+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON/NSString+SBJSON.h
+END
+SBJSON.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON/SBJSON.m
+END
+NSObject+SBJSON.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON/NSObject+SBJSON.m
+END
+NSString+SBJSON.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/JSON/NSString+SBJSON.m
+END

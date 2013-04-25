@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine
+END
+MGTwitterXMLParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterXMLParser.m
+END
+MGTwitterHTTPURLConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterHTTPURLConnection.h
+END
+NSData+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/NSData+Base64.h
+END
+MGTwitterMessagesParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterMessagesParser.h
+END
+MGTwitterMiscLibXMLParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterMiscLibXMLParser.m
+END
+MGTwitterUsersLibXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterUsersLibXMLParser.h
+END
+MGTwitterParserDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterParserDelegate.h
+END
+MGTwitterHTTPURLConnection.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterHTTPURLConnection.m
+END
+NSData+Base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/NSData+Base64.m
+END
+MGTwitterMessagesParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterMessagesParser.m
+END
+MGTwitterUsersLibXMLParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterUsersLibXMLParser.m
+END
+MGTwitterEngineGlobalHeader.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterEngineGlobalHeader.h
+END
+MGTwitterStatusesLibXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterStatusesLibXMLParser.h
+END
+MGTwitterEngineDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterEngineDelegate.h
+END
+MGTwitterStatusesLibXMLParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterStatusesLibXMLParser.m
+END
+MGTwitterEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterEngine.h
+END
+MGTwitterMiscParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterMiscParser.h
+END
+MGTwitterEngine.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterEngine.m
+END
+MGTwitterMiscParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterMiscParser.m
+END
+MGTwitterUsersParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterUsersParser.h
+END
+MGTwitterUsersParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterUsersParser.m
+END
+MGTwitterStatusesParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterStatusesParser.h
+END
+MGTwitterMessagesLibXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterMessagesLibXMLParser.h
+END
+MGTwitterStatusesParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterStatusesParser.m
+END
+MGTwitterMessagesLibXMLParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterMessagesLibXMLParser.m
+END
+NSString+UUID.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/NSString+UUID.h
+END
+MGTwitterLibXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterLibXMLParser.h
+END
+NSString+UUID.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/NSString+UUID.m
+END
+MGTwitterLibXMLParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterLibXMLParser.m
+END
+MGTwitterXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterXMLParser.h
+END
+MGTwitterRequestTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterRequestTypes.h
+END
+MGTwitterMiscLibXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/MGTwitterEngine/MGTwitterMiscLibXMLParser.h
+END

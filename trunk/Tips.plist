@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tips</key>
+	<array>
+		<dict>
+			<key>condition</key>
+			<string>distance</string>
+			<key>tip</key>
+			<string>Steady does it. Fluctuating speeds, even on flat terrain, can have a negative impact on energy usage. </string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>distance</string>
+			<key>tip</key>
+			<string>&quot;I use my phone to check driving routes just to get an idea of how far I need to drive.&quot; - Tom Moloughney</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>distance</string>
+			<key>tip</key>
+			<string>Plug. Charge. Go! The BMW ActiveE can drive up to 100 miles when fully charged.</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>distance</string>
+			<key>tip</key>
+			<string>Air it out. Check your tire pressure regularly to maximize the range of your drive.</string>
+			<key>value</key>
+			<string>100</string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>distance</string>
+			<key>tip</key>
+			<string>“The best technique to maximize my range was simply easing up on the accelerator.” - Saeed Jaffer </string>
+			<key>value</key>
+			<string>60</string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>time</string>
+			<key>tip</key>
+			<string>Leave every morning with a full tank. Charge your BMW ActiveE in approximately 4-5 hours with the charging station.</string>
+			<key>value</key>
+			<string>9</string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>time</string>
+			<key>tip</key>
+			<string>This is not your ‘90’s camcorder. There’s no need to drain your EV battery before charging it.</string>
+			<key>value</key>
+			<string>30</string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>time</string>
+			<key>tip</key>
+			<string>Feeling drained? Conveniently, get approximately 4 miles per every hour you charge using any conventional 120-volt electrical outlet.</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>speed</string>
+			<key>tip</key>
+			<string>It&apos;s all regenerative. Extend your range with regenerative braking by simply taking your foot off the accelerator to transfer your BMW EV’s kinetic energy back into the battery. </string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>speed</string>
+			<key>tip</key>
+			<string>Make it a marathon, not a sprint. Drive at reduced speeds to help preserve the overall range of your vehicle. </string>
+			<key>value</key>
+			<string>30</string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>speed</string>
+			<key>tip</key>
+			<string>“Driving 65 mph on a freeway will almost always get you further than going 75.” - Tom Moloughney</string>
+			<key>value</key>
+			<string>40</string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>terrain</string>
+			<key>tip</key>
+			<string>Going downhill? Take a break from the accelerator and use gravity to your advantage in order to minimize your energy usage and maximize energy recovery. </string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>terrain</string>
+			<key>tip</key>
+			<string>“Electric vehicles drive so smooth. ICE [internal combustion engine] cars jerk around during acceleration, shifting, etc.” – Todd Crook</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>weather</string>
+			<key>tip</key>
+			<string>Set and forget. Preset your BMW ActiveE cabin temperature while charging to help preserve performance and range during your commute. You can even do it using the timer option on the My BMW Remote App.</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>weather</string>
+			<key>tip</key>
+			<string>“Weather has never been a factor. The car still performs flawlessly, rain or shine!” - James Dow</string>
+			<key>value</key>
+			<string>rain</string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>lifestyle</string>
+			<key>tip</key>
+			<string>Boost on the go. Using the My BMW Remote App, you can easily locate nearby charging stations. </string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>lifestyle</string>
+			<key>tip</key>
+			<string>Kids always leaving you with an empty tank? Let them drive all they want, now that you can charge your EV from the convenience of your own home. </string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>lifestyle</string>
+			<key>tip</key>
+			<string>Charge it while charging it. Hit the mall while getting a power boost with new charge stations. The installation of these stations is becoming increasingly popular at shopping malls and other retail locations. </string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>lifestyle</string>
+			<key>tip</key>
+			<string>Busy? Stay inside, and check your charge status using the My BMW Remote App.</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>lifestyle</string>
+			<key>tip</key>
+			<string>Thanks! The U.S. Department of Energy is helping to fund the installation of 25,000 charging docks throughout the country.</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>lifestyle</string>
+			<key>tip</key>
+			<string>Kiss gas prices goodbye. Driving an EV can save on your overall commute, costing approximately half as much per mile compared to your ICE [internal combustion engine] vehicle. </string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>lifestyle</string>
+			<key>tip</key>
+			<string>Sssssshhhh! With EVs, noise pollution is no longer a factor, making every drive a serene one. </string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>lifestyle</string>
+			<key>tip</key>
+			<string>“EVs really have less to deal with than the average internal combustion engine based vehicle. No oil changes, no gas, etc. It’s great!” – Saeed Jaffer</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>lifestyle</string>
+			<key>tip</key>
+			<string>“The MINI E is the best car I&apos;ve driven in 32 years.” – Peder Norby</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>lifestyle</string>
+			<key>tip</key>
+			<string>&quot;The MINI E is the cheapest car I’ve ever driven and easily the most fun to operate.” - James Dow</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>lifestyle</string>
+			<key>tip</key>
+			<string>“Electric cars have none of the typical items in an ICE (internal combustion engine) that need constant repair.  Electric vehicles are much easier to maintain.”  - James Dow</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>joy</string>
+			<key>tip</key>
+			<string>Satisfy your need for speed with the BMW ActiveE. Offering peak torque at zero RPM, it quietly zips from 0-60 in under 9 seconds. Visit www.bmwusa.com/ActiveE for all product details.</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>joy</string>
+			<key>tip</key>
+			<string>Get 90 mph of pure electric adrenaline with the BMW ActiveE. </string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>joy</string>
+			<key>tip</key>
+			<string>“I did not realize how fast an EV is, not to mention how easy and fun it is to drive. 18 months later and I’m still excited to drive.” – Pam Mason</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>joy</string>
+			<key>tip</key>
+			<string>“I love driving my MINI E. I haven&apos;t been this excited about driving a car since I was 16.” - Pam Mason</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>joy</string>
+			<key>tip</key>
+			<string>“Driving clean doesn&apos;t have to be boring and the MINI E does a great job of adding excitement to my daily commute.” – Todd Crook</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>joy</string>
+			<key>tip</key>
+			<string>“When other people drive my MINI E, all they can say is WOW!  Their ‘golf cart’ perceptions quickly disappear.” – Todd Crook</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>badge</key>
+			<string>YES</string>
+			<key>condition</key>
+			<string>joy</string>
+			<key>tip</key>
+			<string>&quot;Incredibly fun, extremely reliable, cheap to drive, and I still occasionally burst out in spontaneous laughter.&quot; – Peder Norby</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>condition</key>
+			<string>joy</string>
+			<key>tip</key>
+			<string>Fewer worries. Bigger thrills. Scheduled maintenance is a breeze with BMW Ultimate Service® covering your BMW ActiveE&apos;s scheduled maintenance needs.</string>
+			<key>value</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

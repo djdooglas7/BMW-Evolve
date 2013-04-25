@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer
+END
+OADataFetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/OADataFetcher.h
+END
+OAToken_KeychainExtensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/OAToken_KeychainExtensions.h
+END
+OAuthConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/OAuthConsumer.h
+END
+OAToken.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/OAToken.h
+END
+OAHMAC_SHA1SignatureProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/OAHMAC_SHA1SignatureProvider.h
+END
+OASignatureProviding.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/OASignatureProviding.h
+END
+OAMutableURLRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/OAMutableURLRequest.h
+END
+OAAsynchronousDataFetcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/OAAsynchronousDataFetcher.h
+END
+OARequestParameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/OARequestParameter.h
+END
+NSURL+Base.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/NSURL+Base.h
+END
+OAConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/OAConsumer.h
+END
+NSString+URLEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/NSString+URLEncoding.h
+END
+OAServiceTicket.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/OAServiceTicket.h
+END
+OAPlaintextSignatureProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/OAPlaintextSignatureProvider.h
+END
+NSMutableURLRequest+Parameters.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1882/BMWEVIPHONE/trunk/Classes/OAuthConsumer/NSMutableURLRequest+Parameters.h
+END
